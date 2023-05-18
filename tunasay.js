@@ -23,7 +23,7 @@ if(i){
         h=c!='\n';
         Z=l[l[L]-1];
         z=c.charCodeAt(0)<128?1:2;
-        if(!h||Z[1]+z>(v||40)) Z=l.push(['',0]);
+        if(!h||Z[1]+z>(v||40))l.push(Z=['',0]);;
         if(h){
             Z[0]+=c;
             Z[1]+=z;
