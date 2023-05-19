@@ -1,9 +1,9 @@
                                              `=28;j=x=>`
                                        `charCodeAt(0)-33;;;L`
                                    `length';((s)=>{t=s.join(); o`
-                                `tob(t.substr(l*2));`/****/`r=(x=>(`
+                                `tob(t.substr(l*2)); `/**/` r=(x=>(`
                               `l-1]=0,x))([]).fill(0`/****/` i)=>{m=j(t`
-                             `+l]`/*****/`k=o.substr(       (k[L]<m){d=m-k`
+                             `+l]`/*****/`k=o.substr(`/**/` (k[L]<m){d=m-k`
                       /***************/`]-3;k+=' '+t.substr(e,d)+'  ';e+=d`
                /*******************/`if(k[L]<m)k+='])';;;;console.log(' '`
             /********************/`epeat(j(t[i]))+k);b+=m;});})([      `
