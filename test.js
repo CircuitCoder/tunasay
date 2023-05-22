@@ -2,7 +2,7 @@
                                        ;A=process.argv;E=' ';
                                    R='repeat';Z=E[R](s);N='\n';r=
                                 (Z+'f='+f+',f('+N+Z+s+/**/')').split
-                              (N);L='length';C='/';[,/****/,...B]=A;P=(x
+                              (N);L='length';C='/';[,/*  */,...B]=A;P=(x
                              ,y=80/*****/)=>x.padEnd(y/**/,E);O=console.log
                       /***************/;F=r=>(Z=B.findIndex(j=>j==r)+1,Z&&B
                /*******************/[Z]);u=F('-l');v=u&&parseInt(u);i=(Z=B
@@ -25,4 +25,4 @@
                                   }O(r.join(
                                       '\n'+'')
                                           );},f(
-                                             45) 
+                                             45)
